@@ -29,3 +29,6 @@ When running the program, flags can be passed in the command line
 ```sh
 $ ./app --output json
 ```
+
+## Other
+Inspired by [disposable](https://github.com/disposable/disposable) where I also got some of the sources from.
